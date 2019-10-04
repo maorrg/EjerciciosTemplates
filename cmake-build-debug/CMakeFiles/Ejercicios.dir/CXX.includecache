@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio1.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio10.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio2.h
+iostream
+-
+vector
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio3.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio4.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio5.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio6.h
+iostream
+-
+
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/main.cpp
+iostream
+-
+Ejercicio1.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio1.h
+Ejercicio2.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio2.h
+Ejercicio3.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio3.h
+Ejercicio4.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio4.h
+Ejercicio5.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio5.h
+Ejercicio6.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio6.h
+Ejercicio10.h
+/Users/maorroizmangheiler/Documents/POO2 Lab/Ejercicios/Ejercicio10.h
+vector
+-
+
